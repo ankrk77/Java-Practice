@@ -1,3 +1,4 @@
+//Write a program to accept a list of strings and remove duplicates using HashSet.
 import java.util.*;
 
 public class Q2 {
