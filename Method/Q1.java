@@ -11,6 +11,7 @@ public class Q1 {
         int b=sc.nextInt();
         int result = add(a,b);
         System.out.println(result);
+        sc.close();
 
     }
 }
