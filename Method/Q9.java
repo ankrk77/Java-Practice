@@ -22,7 +22,6 @@
 //     }
 // }
 
-
 import java.util.Scanner;
 public class Q9 {
     public static int check(int num1, int num2){
